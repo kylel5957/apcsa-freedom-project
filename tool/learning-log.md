@@ -5,7 +5,7 @@
 ## Project: **Freedom Project**
 
 ---
-
+## Learning Log 1
 ### 9/30/25:
 * Looking at the swift documentation, I downloaded Swift and VS50 code
 * Looked at the [swift documentation](https://www.swift.org/documentation/) and see how it's written and utilized
