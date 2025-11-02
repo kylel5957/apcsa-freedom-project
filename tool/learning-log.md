@@ -26,14 +26,52 @@
 * For next week I plan to watch some videos and look more through the documentation to learn more about swift
 
 
-### X/X/XX:
-* Text
+## Learning Log 2
+### 10/27/25
+* Watching [Swift Tutorials](https://www.youtube.com/watch?v=zcLMOTEDd8Y&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=2), I have learned more about swift and it's uniqueness
+* By appending `:String` to something like `var firstName = "Tom` to create `var firstName:String = "Tom`, you can restrict the data intake to only be strings
+* Alongside `:String`, there are also `:Float`, `:Double`, and `:Bool`, which all tell you the exact data type stored in a variable
+* Though not necessary, it's beneficial for clarity and visibility, showing clear intent on the data type you want to take in, which can prove useful when debugging
+* The most efficient way for me to run the code after all my changes would be to press run the project, then type `swift run`
+<img width="389" height="58" alt="image" src="https://github.com/user-attachments/assets/49dd95d9-8df5-423e-8a95-14ac4317c0b6" />
 
+* The parallels between Swift and Java seemed to show with declaring variables and now conditionals
 
-<!--
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
+#### If Statements
+* The if statements in Swift are the same as Java, just without the parentheses around the condition
+```JS
+let name: String = "Goodbye!"
+let decision: Bool = true
+let num3: Double = 32.23
+let num2: Int = 24
+
+if num2 > 23{
+    print("Thats bigger than 23!")
+}
+
+if num3 > 23.22{
+    print("Thats a big number!")
+}
+
+if decision == false {
+    print("It's false")
+}
+else if name == "Goodbye!"{
+    print("Adios!")
+}
+else {
+    print("The end")
+}
+```
+
+* This conditional would print
+<img width="370" height="119" alt="image" src="https://github.com/user-attachments/assets/93b40092-dad5-49b0-b134-fcda6f0fa534" />
+
+* The results printing "Thats bigger than 23!" is correct and works as intended
+* It moves onto the next condition of `num3 > 23.22` which correctly prints `"Thats a big number!"`
+* Next, it goes onto the conditional chain, which correctly deems the first conditional as wrong and prints `"Adios!"` because of the second conditional being true.
+* The difference here is that in Swift, you *can directly check* if the string is equal to a variable, unlike Java.
+
+### Next Steps
+* I will aim to continue to learn more about Swift and how to properly utilize it's features to create a functioning project
+
