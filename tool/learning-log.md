@@ -75,3 +75,53 @@ else {
 ### Next Steps
 * I will aim to continue to learn more about Swift and how to properly utilize it's features to create a functioning project
 
+## Learning Log 3
+### 11/14/25
+
+* From what I've [watched](https://www.youtube.com/watch?v=R4U42rkmHDk&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=5), I now understand how the new concept `switch` works in Swift
+* `switch` allows you to run through various conditions on one specific variable, clearing the syntax and allowing for more concise code
+* `switch` works with various data types such as: `int, double, char, string, bool`, and more
+* The syntax of switch is similar to `if statements`, and they go as follows
+
+```JS
+
+switch 'variable' {
+
+case condition1:
+    print(anything)
+case condition2, condition3:
+    print(anything)
+default:
+    print(anything)
+
+}
+
+//example with int below
+
+int a = 3
+switch a {
+case 1:
+    print("The number is 1")
+case 2, 3:
+    print("The number is 2 or 3")
+default:
+    print("It's not 1, 2, or 3")
+}
+
+// ^ prints "The number is 2 or 3"
+```
+
+* Switch allows for multiple conditions on one line or different conditions on different lines, just like an if statement chain.
+* `case` signifies the start of a new condition, while `default` works as an else statement, printing if none of the conditions are met.
+
+* 
+
+<img width="593" height="289" alt="image" src="https://github.com/user-attachments/assets/b5af6363-43fe-4121-9a38-a7c13db336c9" />
+<img width="428" height="116" alt="image" src="https://github.com/user-attachments/assets/cd51597c-5735-4214-8ac8-4818e96bafa8" />
+
+* It prints out `"The string is Hello or World"`, which, as the variable shows, is true
+* Having followed step by step, it's clear how convenient this feature is. Being able to work with various data types eliminates the need for unnecessarily long if-conditional chains.
+* This feature can be especially useful when looking for specific phrases or numbers, making the syntax and readability simpler for longer conditions
+
+#### Next Steps
+I want to start merging my understanding of Swift with Joe so that we both are on track and can build off each other's understanding of Swift's features.
