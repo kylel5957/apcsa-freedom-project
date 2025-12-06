@@ -125,3 +125,25 @@ default:
 
 #### Next Steps
 I want to start merging my understanding of Swift with Joe so that we both are on track and can build off each other's understanding of Swift's features.
+
+
+## Learning Log 5 
+### 12/1/25
+
+* From [the continuation](https://www.youtube.com/watch?v=KV7Ts9sm850&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=6) of the previous playlist, CodeWithChris continues to break down each concept of Swift.
+* This video talks about loops, this time they are completely different from anything I've seen before, the structure is similar yet different.
+* The loop structure is as follows
+
+```JS
+for varName in lowerValue...higherValue{
+    code 
+}
+```
+I had decided to implement somethig similar while following the tutorial and wondered if the interactions within and outside the loop would stay the same as the other loops.
+
+<img width="342" height="173" alt="image" src="https://github.com/user-attachments/assets/b3ee58eb-fc9d-48c4-bbe5-38e70bff3829" />
+
+Here I declared an integer, indepedent from everything, in the loop I was
+
+<img width="387" height="89" alt="image" src="https://github.com/user-attachments/assets/955c68ed-9fea-4264-9787-6987463f6366" />
+
