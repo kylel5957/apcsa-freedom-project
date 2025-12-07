@@ -154,3 +154,10 @@ Here it prints `1, 3, and 6`, which makes sense. With the value starting at 1, t
 
 Here, I had changed some numbers so that the loop starts at 0 and ends at 5. I changed the variable being printed to the loop so that it would print each stage it was on. I was expecting that it would only print up to 4 because, without specifying, I thought that the loop would be exclusive.
 
+<img width="391" height="143" alt="image" src="https://github.com/user-attachments/assets/fc9e5a7d-2f9f-471a-9192-5ea15f6542b4" />
+
+However, contrary to my belief, the loop was inclusive. Having set the loop from 0-5, I thought it would've run like it was 0<5, but it was not true. The loop ran inclusively, which meant 0<=,5 which was why it had printed everything from 0-5.
+This is important to remember because it means that we always need to tailor our loops inclusively and not exclusively. Additionally, when utilizing loops, it would come in handy and make the process easier to understand with the numbers you input.
+
+#### Next Steps
+To keep the momentum going and keep on learning swift to not fall behind and keep on learning new concepts to utilize for the project.
