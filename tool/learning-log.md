@@ -139,11 +139,13 @@ for varName in lowerValue...higherValue{
     code 
 }
 ```
-I had decided to implement somethig similar while following the tutorial and wondered if the interactions within and outside the loop would stay the same as the other loops.
+I had decided to implement something similar while following the tutorial, and wondered if the interactions within and outside the loop would stay the same as the other loops.
 
 <img width="342" height="173" alt="image" src="https://github.com/user-attachments/assets/b3ee58eb-fc9d-48c4-bbe5-38e70bff3829" />
 
-Here I declared an integer, indepedent from everything, in the loop I was
+Here, I declared an integer, independent from everything. In the loop, I made it so that with each iteration, it would save the current value and add the iteration number. With each loop run, it would also print the current value, which can be seen below.
 
 <img width="387" height="89" alt="image" src="https://github.com/user-attachments/assets/955c68ed-9fea-4264-9787-6987463f6366" />
+
+Here it prints `1, 3, and 6`, which makes sense. With the value starting at 1, the following 1+2=3, and finally the 3+3=6. For my next test, I wanted to make it more apparent how the loops run without any external variables involved. So after this test, I removed the concatenation and kept the print command inside while changing what it printed.
 
