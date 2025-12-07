@@ -127,6 +127,7 @@ default:
 I want to start merging my understanding of Swift with Joe so that we both are on track and can build off each other's understanding of Swift's features.
 
 
+
 ## Learning Log 5 
 ### 12/1/25
 
@@ -148,4 +149,8 @@ Here, I declared an integer, independent from everything. In the loop, I made it
 <img width="387" height="89" alt="image" src="https://github.com/user-attachments/assets/955c68ed-9fea-4264-9787-6987463f6366" />
 
 Here it prints `1, 3, and 6`, which makes sense. With the value starting at 1, the following 1+2=3, and finally the 3+3=6. For my next test, I wanted to make it more apparent how the loops run without any external variables involved. So after this test, I removed the concatenation and kept the print command inside while changing what it printed.
+
+<img width="304" height="139" alt="image" src="https://github.com/user-attachments/assets/6d385a8b-f201-4ad0-8469-7c65d1f37cc1" />
+
+Here, I had changed some numbers so that the loop starts at 0 and ends at 5. I changed the variable being printed to the loop so that it would print each stage it was on. I was expecting that it would only print up to 4 because, without specifying, I thought that the loop would be exclusive.
 
