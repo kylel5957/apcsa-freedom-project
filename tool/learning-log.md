@@ -160,4 +160,41 @@ However, contrary to my belief, the loop was inclusive. Having set the loop from
 This is important to remember because it means that we always need to tailor our loops inclusively and not exclusively. Additionally, when utilizing loops, it would come in handy and make the process easier to understand with the numbers you input.
 
 #### Next Steps
-To keep the momentum going and keep on learning swift to not fall behind and keep on learning new concepts to utilize for the project.
+To keep the momentum going and keep on learning Swift, not to fall behind, and keep on learning new concepts to utilize for the project.
+
+
+
+## Learning Log 6 
+### 12/10/25
+
+* In [this](https://www.youtube.com/watch?v=36ipzqIQKIk&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=7) video, he continues to expand on while loops and their functionality.
+* I learned that there is a different type of while loop, which is the "Repeat Loop". What's different is that instead of the usual structure of while which looks like
+
+```JS
+while condition {
+    some code
+}
+```
+
+* The loop runs when the condition is true; the repeat loop flips it on its head. With the structure like
+
+```JS
+repeat {
+    some code 
+} while condition
+```
+
+* Now the difference in this code is that the repeat loop ensures that the loop will run at least once before checking the condition to run again, eliminating the need for external code to just repeat what the while loop would need.
+
+* Now I also watched another [video](https://www.youtube.com/watch?v=CLmZxVkN9gw&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=8) on functions, and they are extremely similar to JS functions in their structure.
+* Here I learned about functions and their structure, which is parallel to JS.
+
+```JS
+func name() {
+    some code
+}
+
+name()
+```
+
+* This allows you to ind
