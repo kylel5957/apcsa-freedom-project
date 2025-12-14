@@ -186,6 +186,11 @@ repeat {
 
 * Now the difference in this code is that the repeat loop ensures that the loop will run at least once before checking the condition to run again, eliminating the need for external code to just repeat what the while loop would need.
 
+<img width="421" height="196" alt="image" src="https://github.com/user-attachments/assets/8be7c912-01fa-4387-bc77-a4f37dd00ef4" />
+<img width="387" height="70" alt="image" src="https://github.com/user-attachments/assets/99bd5683-7d73-42b7-bb93-a23c710c2546" />
+
+* Here, I declared an integer set to 1 and then set up two loops. In the results below, only "Number is greater than 1" is printed because, even though both CONDITIONS are wrong, the repeat loop ensures the code inside runs at least once, eliminating extra code that would've been needed. 
+
 * Now I also watched another [video](https://www.youtube.com/watch?v=CLmZxVkN9gw&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=8) on functions, and they are extremely similar to JS functions in their structure.
 * Here I learned about functions and their structure, which is parallel to JS.
 
@@ -197,4 +202,8 @@ func name() {
 name()
 ```
 
-* This allows you to ind
+* This allows you to bunch code together so that they can all be executed in one line repeatedly.
+
+<img width="302" height="159" alt="image" src="https://github.com/user-attachments/assets/a179f867-a23b-4a56-b6cc-6c032fc9ff15" />
+<img width="363" height="55" alt="image" src="https://github.com/user-attachments/assets/3ce0c4ac-75cc-4151-a521-b5a6ff5dfabd" />
+
