@@ -203,7 +203,12 @@ name()
 ```
 
 * This allows you to bunch code together so that they can all be executed in one line repeatedly.
+* Below I have created a function and called it so that it would print whatever was in the function
 
 <img width="302" height="159" alt="image" src="https://github.com/user-attachments/assets/a179f867-a23b-4a56-b6cc-6c032fc9ff15" />
 <img width="363" height="55" alt="image" src="https://github.com/user-attachments/assets/3ce0c4ac-75cc-4151-a521-b5a6ff5dfabd" />
 
+* Utilizing functions would allow me to significantly cut down the code I would need to write for repeated actions
+
+#### Follow Up 
+* I would like to continue to learn more concepts and continue to work alongside Joe to improve our knowledge of Swift so that we can finally start working on our end goal.
