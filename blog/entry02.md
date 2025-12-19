@@ -54,6 +54,19 @@ name()
 
 ```
 
+### Thoughts 
+
+So far, Swift has been simple, understandable, and modern. I believe that utilizing more of the documentation and watching more videos can make this project become something. I have conversed with Joe, and we are both on 
+about the same pace in learning Swift's documentation. I hope that there will be much more parallels between Swift and the old coding languages so that it would be much more easier to learn and implement.
+
+### Winter Break 
+
+With the break being around the corner, I want to set some goals. I want to over the break, try to at least reach episode 10, learning about subclassing and initialization in Swift, and possibly, if I have time, shoot for episode 12, learning more about initializers. Additionally, I would aim to find another source of information and tutorial for Swift to diversify my information input and perspective on the possibilities of Swift. 
+
+### Engineer Design Process (EDP)
+
+Currently, I believe that my partner Joe and I are on steps 2 and 3. Joe and I are still continuously brainstorming and researching possible solutions to our problem as we learn more about Swift and how it operates. Since we have learned somewhat much of Swift so far, we are also experimenting on our own to see what we can make ourselves so far. We hope to create and formulate something that will have a positive impact and something that is scalable.
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
