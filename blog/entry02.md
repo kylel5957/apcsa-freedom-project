@@ -6,10 +6,53 @@ Since Blog 1, which was a month ago, I've learned so much more Swift and how I c
 
 ### New Concepts
 As a summary, some of the new concepts I've learned are 
-* Data types (e.g. `var varName: Int/Double/Bool/String)\
-* If statements (`if condition { some code }`)
-  * Switch, 
+* Data types --> Ensures the variable stays and accepts only that data type (e.g. `var varName: Int/Double/Bool/String)
+* If statements --> Runs the code only if condition is met (`if condition { some code }`)
+  * Switch Statements --> Runs numerous conditions on one variable and executes the first match 
+```JS
+switch 'variable' {
 
+case condition1:
+    print(anything)
+case condition2, condition3:
+    print(anything)
+default:
+    print(anything)
+
+}
+```
+* Loops
+  * For Loops --> Loops for however long it's specified
+  * While Loops --> Loops while a certain condition is true 
+  * Repeat Loops --> Runs the code at least once before checking if any of the conditions are true
+```JS
+//for loop
+for varName in lowerValue...higherValue{
+    code 
+}
+
+//while loop
+while condition {
+    some code
+}
+
+//repeat loop
+repeat {
+    some code 
+} while condition
+
+```
+ 
+* Functions --> Runs a chunk of bundled code
+```JS
+
+func name(parameter) {
+    some code
+}
+
+name()
+
+```
 
 
 
