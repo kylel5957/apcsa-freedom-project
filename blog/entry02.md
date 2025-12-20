@@ -57,17 +57,23 @@ name()
 ### Thoughts 
 
 So far, Swift has been simple, understandable, and modern. I believe that utilizing more of the documentation and watching more videos can make this project become something. I have conversed with Joe, and we are both on 
-about the same pace in learning Swift's documentation. I hope that there will be much more parallels between Swift and the old coding languages so that it would be much more easier to learn and implement.
+about the same pace in learning Swift's documentation. I hope that there will be many more parallels between Swift and the old coding languages so that it will be much easier to learn and implement.
 
 ### Winter Break 
 
-With the break being around the corner, I want to set some goals. I want to over the break, try to at least reach episode 10, learning about subclassing and initialization in Swift, and possibly, if I have time, shoot for episode 12, learning more about initializers. Additionally, I would aim to find another source of information and tutorial for Swift to diversify my information input and perspective on the possibilities of Swift. 
+With the break being around the corner, I want to set some goals. I want to over the break, try to at least reach episode 10, learning about subclassing and initialization in Swift, and possibly, if I have time, shoot for episode 12, learning more about initializers. Additionally, I would aim to find another source of information and a tutorial for Swift to diversify my information input and perspective on the possibilities of Swift. 
 
 ### Engineer Design Process (EDP)
 
-Currently, I believe that my partner Joe and I are on steps 2 and 3. Joe and I are still continuously brainstorming and researching possible solutions to our problem as we learn more about Swift and how it operates. Since we have learned somewhat much of Swift so far, we are also experimenting on our own to see what we can make ourselves so far. We hope to create and formulate something that will have a positive impact and something that is scalable.
+Currently, I believe that my partner Joe and I are on steps 2 and 3. Joe and I are still continuously brainstorming and researching possible solutions to our problem as we learn more about Swift and how it operates. Since we have learned a bit about Swift so far, we are also experimenting on our own to see what we can create ourselves. We hope to develop and formulate something that will have a positive impact and is scalable.
 
+### Skills 
 
+#### How to learn 
+With Swift being a completely new coding language, it's important to cultivate the skill of learning efficiently. I have learned how to download/use Swift and the codespace it resides in through trial and error. Learning usually never works on the first attempts and understanding that and trying again is what matters the most. Additionally, rather than trying to only look at the documentation and learning Swift on my own, I watched videos and overviews in order to understand how Swift works and how I can follow along and replicate the progress.
+
+#### Time Management 
+Having two jobs outside of school, it's hard to keep up with all the work, but with time management, it can be done. When there's a deadline, instead of panicking, I learned the importance of starting early and breaking down the one big task into little tasks that are more manageable. Additionally, I could set aside the time I have to focus on completing my work rather than procrastinating. I've learned through experience and repetition that the best way to manage my time would be to at least do something each day, no matter how tired or sleepy, I have to do a little work enough to make some progress.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
