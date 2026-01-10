@@ -212,3 +212,12 @@ name()
 
 #### Follow Up 
 * I would like to continue to learn more concepts and continue to work alongside Joe to improve our knowledge of Swift so that we can finally start working on our end goal.
+  
+
+
+# Leaning Log 7
+## 1/9/26
+
+* From the videos about [optionals](https://www.youtube.com/watch?v=IG_JCxSPa_k&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=14), I learn about the utility of the `?` and `nil` value, which can be excellent placeholders.
+* When declaring a variable, the option to have it with no value is not allowed, while the placeholder `nil` works, it would then make the variable assigned to it unable to be properly used; additionally, the datatype needs to be explicitly stated, which then further narrows your options.
+* However, to utilize the "optional", such as in a conditional statement, you must first "unwrap" the optional (i.e., the "?").
