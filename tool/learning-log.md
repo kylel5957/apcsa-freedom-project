@@ -225,12 +225,11 @@ name()
 * Part of the optional family would be optional binding and optional chaining, whose syntax is similar to optionals.
 
 ```JS
-let x: Int = 10   //regular variable set to a value
+let x: Int = 10         // regular variable set to a value
+let y: Int? = x + 5     // optional (can be nil)
 
-let y: Int? = x + 5   //optional, which means the value can equal "nil"
 
-
-class randomAge {
+class RandomAge {
 
     func age() -> Int {
         return Int.random(in: 1...10)
@@ -239,17 +238,28 @@ class randomAge {
 }
 
 
-let whatAge: randomAge? = 18   //Optional binding
+// OPTIONAL
+let whatAge: RandomAge? = RandomAge()
 
+// OR
+let whatAge:int? (Wrapped)
+let whatAge:int! (Unwrapped)
+
+
+// OPTIONAL BINDING
 if let unwrappedAge = whatAge {
     print(unwrappedAge.age())
 }
 
 
-age?.age()
+// OPTIONAL CHAINING
+whatAge?.age()
 
 
-// The if statement first checks if the optional is an object, and if it is, then it assigns the variable and runs the function.
+// The if statement first checks if the optional is not nil,
+// then assigns the unwrapped value and runs the function.
 ```
 
-* Swift is a type-safe language
+* Swift is a type-safe language, meaning that each syntax must be specific and won't run until errors are all cleared.
+* Optionals exist to prevent common data mistakes and allow for empty variables without explicitly setting a value.
+* The difference between `let whatAge:int?` and `let whatAge:int!` is that the one that's wrapped would bring up safety checks and ensure it's used correctly, while the unwrapped one doesn't.
