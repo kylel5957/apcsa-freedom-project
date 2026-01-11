@@ -265,8 +265,13 @@ whatAge?.age()
 * The difference between `let whatAge:int?` and `let whatAge:int!` is that the one that's wrapped would bring up safety checks and ensure it's used correctly, while the unwrapped one doesn't.
 
 <img width="392" height="287" alt="image" src="https://github.com/user-attachments/assets/142892a2-3887-4361-8b16-49235af6387f" />
+
 <img width="425" height="103" alt="image" src="https://github.com/user-attachments/assets/ac437c3c-d8c3-49c7-ab36-e181a605b810" />
 
 * Here in my codespace, I show how in my function that returns a number from 1 to 10, I declare "whatAge" as an optional, with it possibly being a nil value or calling the class.
-* Then in the next line, I made it so that if the optional does have a value rather than nil, it would declare a variable, setting it to the value the function returns and printing it out.
+* Then, in the next line, I made it so that if the optional does have a value rather than nil, it would declare a variable, setting it to the value the function returns and printing it out.
 * In the running of the code, there was a value, and it wasn't nil, so the function returns "5".
+
+### Follow Up 
+
+* In the following learning logs, I hope to continue to understand how to utilize the different syntax in unique ways to create a good product. This lesson was dense with the idea of optionals being foreign, and I will continue to practice and do my best to understand it.
