@@ -220,4 +220,36 @@ name()
 
 * From the videos about [optionals](https://www.youtube.com/watch?v=IG_JCxSPa_k&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=14), I learn about the utility of the `?` and `nil` value, which can be excellent placeholders.
 * When declaring a variable, the option to have it with no value is not allowed, while the placeholder `nil` works, it would then make the variable assigned to it unable to be properly used; additionally, the datatype needs to be explicitly stated, which then further narrows your options.
-* However, to utilize the "optional", such as in a conditional statement, you must first "unwrap" the optional (i.e., the "?").
+* However, to utilize the "optional", such as in a conditional statement, you must first "unwrap" the optional (the "?") by using the ("!"), the unwrapper.
+
+* Part of the optional family would be optional binding and optional chaining, whose syntax is similar to optionals.
+
+```JS
+let x: Int = 10   //regular variable set to a value
+
+let y: Int? = x + 5   //optional, which means the value can equal "nil"
+
+
+class randomAge {
+
+    func age() -> Int {
+        return Int.random(in: 1...10)
+    }
+
+}
+
+
+let whatAge: randomAge? = 18   //Optional binding
+
+if let unwrappedAge = whatAge {
+    print(unwrappedAge.age())
+}
+
+
+age?.age()
+
+
+// The if statement first checks if the optional is an object, and if it is, then it assigns the variable and runs the function.
+```
+
+* Swift is a type-safe language
