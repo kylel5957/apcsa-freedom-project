@@ -53,10 +53,24 @@ if let unwrappedAge = whatAge {
 //Checks whether whatAge? is nil, if not, it'll call age(), if so, it'll get skipped
 // OPTIONAL CHAINING
 whatAge?.age()
-
-
 ```
 
+### Thoughts
+
+Swift to this point has certainly ramped up the complexity and difficulty of introducing a complex idea such as optionals. Still, this would supplement my learning, as well as what I would do in the future on my project. I will continue to tinker in order to retain my understanding of Swift, as well as looking upon [documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/) to fill in the gaps in my knowledge.
+
+
+### EDP (Engineer Design Process) 
+Joe and I are on steps 3 and 4; as we continue to brainstorm new ideas, we are also pinning some possible and probable solutions in order to begin working on something. We have learned a lot of skills over the past year and can begin planning how our vision may start to look in the future and our project.
+
+
+### Skills 
+
+#### How to Google
+With Swift still being somewhat of a novel language to me, I have googled information and guides on the side to answer little questions of mine. Rather than solely relying on Swift tutorial videos on YouTube, to get a better understanding of Swift, I have googled various documentation and the experiences others had in order to get a better understanding of my coding language. Furthermore, questions that involved concepts outside of Swift, such as collaboration and add-ons, are not included in the Swift tutorials I watched, which further necessitates the need to responsably google information I don't know.
+
+#### How to read
+This skill directly ties into the previous skill, yet also differs in its unique way. Throughout all the googling and documentations, the need to read properly became a cornerstone of how I understood Swift as a language. To add on, the skill of reading extended more in my understanding of Swift more than simply reading documentation, but also coherently reading the code. Without training my ability to read properly, I would've fallen behind and simply not have equipped myself with the necessary tools to learn a new language.  
 
 [Previous](entry02.md) | [Next](entry04.md)
 
