@@ -33,9 +33,12 @@ class RandomAge {
 // OPTIONAL (Could be a nil value or an int)
 let whatAge: RandomAge? = RandomAge()
 
+
+
 // OR (? being unknown or ! being explicit, stating that there IS an int)
 let whatAge:int? (Wrapped)
 let whatAge:int! (Unwrapped)
+
 
 
 // If let checks if whatAge is nil, if not, it'll be stored within unwrappedAge.
