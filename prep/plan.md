@@ -9,6 +9,7 @@
 
 #### MVP
 
+We are going to make a concept of a guessing game that can keep the user active to think about their inputs while minimizing distracting and unnecessary additions.
 - [ ] Task (deadline: X)
   - [ ] Subtask (deadline: X)
 
