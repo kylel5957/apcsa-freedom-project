@@ -10,11 +10,11 @@
 #### MVP
 
 We are going to make a concept of a guessing game that can keep the user active to think about their inputs while minimizing distracting and unnecessary additions.
-- Build a bare-bone menu main page that includes game displays, navigation tools, and setting options using NavigationStack (deadline: 2/24) (Joe)
-  - Add logos and a start button for each game (it will look like a card with arrow navigation on the side) (deadline: 3/3) (Kyle)
-  - Add background music in the main page (deadline: 3/4) (Kyle)
-- Create card memory test game (objective being to have the longest memorized streak of cards) (deadline: 3/4) (Joe)
-- Create reaction time test game (deadline: 3/5) (Joe)
+- Build a bare-bone menu main page that includes game displays, navigation tools, and setting options using NavigationStack (deadline: 3/10) (Joe)
+  - Add logos and a start button for each game (it will look like a card with arrow navigation on the side) (deadline: 3/15) (Kyle)
+  - Add background music in the main page (deadline: 3/15) (Kyle)
+- Create card memory test game (objective being to have the longest memorized streak of cards) (deadline: 3/15) (Joe)
+- Create reaction time test game (deadline: 3/20) (Joe)
   
 #### Beyond MVP
 
