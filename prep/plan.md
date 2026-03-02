@@ -17,7 +17,7 @@ We are going to make a concept of a guessing game that can keep the user active 
 - Create reaction time test game (deadline: 3/20) (Joe)
   
 #### Beyond MVP
-
+(To be started late March, early April)
 - Add additional games (word scrambler, snake)
 - Refine the menu page by adding animation to enhance user experience and overall looks
 
