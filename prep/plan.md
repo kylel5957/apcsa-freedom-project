@@ -10,7 +10,7 @@
 #### MVP
 
 We are going to make a concept of a guessing game that can keep the user active to think about their inputs while minimizing distracting and unnecessary additions.
-- Build a bare-bone menu main page to display games (deadline: 2/24) (Joe)
+- Build a bare-bone menu main page that includes game displays, navigation tools, and setting options (deadline: 2/24) (Joe)
   - Add logos and a start button for each game (it will look like a card with arrow navigation on the side) (deadline: 3/3) (Kyle)
   - Add background music in the main page (deadline: 3/4) (Kyle)
 - Create card memory test game (objective being to have the longest memorized streak of cards) (deadline: 3/4) (Joe)
