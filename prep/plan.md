@@ -18,8 +18,8 @@ We are going to make a concept of a guessing game that can keep the user active 
   
 #### Beyond MVP
 (To be started late March, early April)
-- Add additional games (word scrambler, snake)
-- Refine the menu page by adding animation to enhance user experience and overall looks
+- Add additional games (word scrambler, snake) (Both)
+- Refine the menu page by adding animation to enhance user experience and overall looks (Both)
 
 
 
