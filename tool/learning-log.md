@@ -275,3 +275,46 @@ whatAge?.age()
 ### Follow Up 
 
 * In the following learning logs, I hope to continue to understand how to utilize the different syntax in unique ways to create a good product. This lesson was dense with the idea of optionals being foreign, and I will continue to practice and do my best to understand it.
+
+
+
+# Learning Log 8 
+## 3/8/26
+
+* The swift [beginner playlist](https://www.youtube.com/watch?v=rNyTxjGSp8Q&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&index=17) now focuses its attention on explaining collection types. Here, I learn about arrays and dictionaries.
+* To simplify, arrays in Swift are similar to arrays in Java; however, Swift's arrays are dynamic, and that means they are changeable in size. They also share the same property that they cannot mix data types, and only return the data type you set the array as.
+* There are numerous built-in methods that can be used on arrays, such as: `.count`; `.append`; `.insert`; `.remove(at: int)`; `.firstIndex(of: String)`; `.lastIndex(of: String)`; `.first`; `.last`.
+* The methods are very intuitive and work as they seem, returning the first, last, or any specific element. Swift also runs on 0-index counting, so it's important to consider that when counting and utilizing the numbers.
+* Dictionaries are what they sound like. In Swift, you create them using `var name = [dataType:dataType]()` by first creating "keys", and you can assign them values, which then can be referred back to or utilized in various ways.
+* Additionally, when looping through a dictionary, you can use something called a tuple, "a comma-seperated list of types, enclosed in parenthesis"
+* To print integer values from a result alongside a string is done by using String Interpolation. `("Hello I am \age years old")`
+  
+```JS
+//initialize the array
+var fruits:[String] = ["apple", "pears", "berries"]
+
+//adds "dates" at index 1
+fruits.insert("dates", at: 1)
+
+//this adds "grapes" to the end of the array
+fruits += ["grapes"]
+
+//calls array
+print(fruits)
+print("In total I have \(fruits.count) fruits")
+
+// PRINTS 
+// ["apple", "dates", "pears", "berries", "grapes"]
+// In total I have 5 fruits
+```
+<img width="488" height="475" alt="image" src="https://github.com/user-attachments/assets/988aa123-cbe8-4575-9481-e8798fde3cf6" />
+
+<img width="203" height="69" alt="image" src="https://github.com/user-attachments/assets/1bc4a8f4-0f01-489a-b983-6428acd83fbc" />
+
+
+* The results are exactly what is to be expected, and this would be extremely beneficial whether I am collecting data or creating secret code games.
+* Each line is roughly explained, and the syntax isn't that difficult to understand
+
+### Next Steps
+* My next step would now be to get a Mac, which I already am in the process of doing. By achieving this step, I can further collaborate with Joe on the creation of the game.
+* Since this is also the last topic of the videos, I am going to continue to look for online resources to keep on learning how to write Swift in a beneficial manner.
