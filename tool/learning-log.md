@@ -318,3 +318,44 @@ print("In total I have \(fruits.count) fruits")
 ### Next Steps
 * My next step would now be to get a Mac, which I already am in the process of doing. By achieving this step, I can further collaborate with Joe on the creation of the game.
 * Since this is also the last topic of the videos, I am going to continue to look for online resources to keep on learning how to write Swift in a beneficial manner.
+
+
+# Learning Log 9 
+## 3/19/26
+
+* Moving on to learning more about app creation, the first step is to understand how the UI works and how I could design it to be appealing and operational.
+* I began this first step by watching [a tutorial](https://www.youtube.com/watch?v=Ys59M1qFAfo) on how to do so by understanding the whole process broken down.
+* Views are what the users see, and the modifiers are what are applied to the views to change their look and feel. Finally, the container is what dictates placement and how everything is organized.
+* The first simple step is to import an image, which would be uploaded to the assets folder after creating a project on Xcode.
+* After, inside the body, you can use `Image("image-name")` to display the image on the screen.
+* At first, the image would cover the entire screen, so to get around that, you use `.resizable() and .aspectRatio(contentMode: .fit)`
+* Additionally, there are various ways to change the image, such as `.cornerRadius(int)`. It is also easy to look through the library, which lists all the different views and modifiers available for use.
+
+```JS
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        Image("Rice")
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .cornerRadius(20)
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+
+```
+
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/cb8ce35e-1306-4451-8112-bd52bd84d409" /><img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/fa802f55-6a5e-4676-81d7-721e4cb2ff81" />
+
+* The images appeared as they should with the image fitting on the screen rather than being incredibly zoomed in.
+
+### Next Steps 
+* My next steps are to continue navigating Xcode and possibly understand how to write more behind-the-scenes things that would make the page more interactive
+* Additionally, I want to learn how to set a background image and buttons.
