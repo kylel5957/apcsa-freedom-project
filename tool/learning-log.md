@@ -359,3 +359,48 @@ struct ContentView_Previews: PreviewProvider {
 ### Next Steps 
 * My next steps are to continue navigating Xcode and possibly understand how to write more behind-the-scenes things that would make the page more interactive
 * Additionally, I want to learn how to set a background image and buttons.
+
+# Learning Log 10 
+## 3/27/26
+
+* Starting from where I finished, I sought out ways to create buttons, and from that, I stumbled upon various ways to make buttons.
+* I thought to make [buttons](https://www.youtube.com/watch?v=zFP1CJApEaE) as they would be the perfect start to any game, the start button, and or any buttons for them to interact with
+* Through a tutorial video and visuals, I learned that there were many different types of buttons and parts of a button
+
+``` Swift
+Button("Button") {
+        // code 
+      }
+```
+
+* With that little code, it appears as text, rather than looking like the button I want.
+* To upgrade the button, we can add styles to it, which include: plain, automatic, bordered, bordered prominent, and borderless.
+* Additional things we can add are fonts, sizes, colors, fontweight, and many more
+* If we were to add a button style to the previous button (`.buttonStyle(.plain)`, `.buttonStyle(.bordered)`, `.buttonStyle(.borderedProminent)`) it would look vastly different
+
+<img width="276" height="178" alt="image" src="https://github.com/user-attachments/assets/70faddf6-c787-46e7-b5b1-dfd65148b815" />
+
+* An additional simple function for buttons would be below
+* This is the most basic way to print something with a button, and with more code, you can do more complex things
+
+```Swift
+
+VStack {
+    Button("One") {
+        print("1")
+    }
+    Button("Two") {
+        print("2")
+    }
+    Button("Three") {
+        print("3")
+    }
+}
+
+```
+<img width="69" height="113" alt="image" src="https://github.com/user-attachments/assets/06dfdef2-0bcd-4a1a-a652-398ad7171d1e" />
+
+### Next Steps 
+* My next steps are to continue exploring the library inside Xcode and seeing what works and what doesn't
+* Additionally, I want to learn how to make things move in the background or at least disappear to have some sort of game element to implement.
+* Lastly, I want to understand whether it is simple to collaborate in Swift or if it is a hassle.
