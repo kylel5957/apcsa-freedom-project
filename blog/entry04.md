@@ -66,7 +66,7 @@ for (key, value) in dictionary {
 ```
 
 ### Comments 
-The various ways of data storage allow for numerous possibilities of how we can sort user input and utilize said information. However, although I may have understood some fundamentals, Swift apps require more than just code and require the designing of the UI, which I still need to learn about, and how code interacts with the interface to create a pleasing interface for users. Having recently acquired my Mac, I will work towards tinkering around with the UI while asking Joe to collaborate and create a functioning first game.
+The various ways of data storage allow for numerous possibilities of how we can sort user input and utilize said information. However, although I may have understood some fundamentals, Swift apps require more than just code and require the designing of the UI, which I still need to learn about, and how code interacts with the interface to create a pleasing interface for users. Having recently acquired my Mac, I will work towards tinkering around with the UI while asking Joe to collaborate and create a functioning first game. The features that I have tinkered around with seems to be useful as long as I implement them correctly.
 
 ### EDP (Engineer Design Process)
 Currently, as we have all the necessary tools to begin creating a game, we are on steps 4 and 5: actually creating and implementing what we have learned and planned out. Creating the prototype would mean having created the interface (what the user sees) and the user experience (how interactions go), which would place us somewhere in between as we start working towards that goal collaboratively.
