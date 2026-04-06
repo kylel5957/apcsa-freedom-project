@@ -3,13 +3,20 @@
 
 ### Continuation after blog 3
 
-Having now finished the Swift beginner's tutorial playlist on YouTube, I now have a better understanding of how Swift works and the type of language it is. Now my goal is to impart that knowledge when writing about Xcode. Having recently acquired a MacBook, I can write Swift and retroactively see the result of what I wrote. Now I have to collaborate with Joe to finally create something that would be akin to our final project. I am going to focus on trying to acomplish what was written out in our plan so that we can finish in a timely manner.
+Having now finished the Swift beginner's tutorial playlist on YouTube, I now have a better understanding of how Swift works and the type of language it is. Now my goal is to impart that knowledge when writing about Xcode. Having recently acquired a MacBook, I can write Swift and retroactively see the result of what I wrote. Now I have to collaborate with Joe to finally create something that would be akin to our final project. I am going to focus on trying to acomplish what was written out in our plan so that we can finish in a timely manner. I have watched an intro for [arrays and dictionaries](https://www.youtube.com/watch?v=-uwSmesQKHE) so that I could better utilize them in my code or understand what I am looking at while watching additional videos. Additionally, I have watched a [video](https://www.youtube.com/watch?v=Gdu6WgIu37A) on how to create simple buttons to do simple tasks. 
 
 ### New Syntax
 
 * Arrays --> A way to store data by collecting data of one type. 
 * Dictionaries --> A method of storing data by giving definitions a key. 
 * Numerous built-in methods can be used on arrays, such as: `.count`; `.append`; `.insert`; `.remove(at: int)`; `.firstIndex(of: String)`; `.lastIndex(of: String)`; `.first`; `.last`.
+* Button syntax --> `Button("displayed text"){ //code to run }`
+
+There are various types of buttons to choose from, but they all have the same purpose of displaying text and executing an action once hovered over or pressed on. ie.(`(.buttonStyle(.plain)`, `.buttonStyle(.bordered)`, `.buttonStyle(.borderedProminent)`)
+
+<img width="956" height="192" alt="image" src="https://github.com/user-attachments/assets/1168ea9c-438c-4774-b66c-0485b31aa8c8" />
+<img width="157" height="44" alt="image" src="https://github.com/user-attachments/assets/dd1fb5dc-1efe-4589-8bcf-aaf6c6ff7e0a" />
+
 
 ```JS
 *Arrays*
