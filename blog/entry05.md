@@ -2,7 +2,7 @@
 ##### 4/18/26
 
 ### Update from Blog 4
-Having honed in on the interactive aspect of Swift, I sought to combine a button with a shape that would disappear as the user clicked on it, as a game. With my direction set, I first wanted to put that aside and  follow step by step a video on how to create a [card matching minigame](https://drive.google.com/file/d/1lEL9fTAbKJznsanTHrcyeM5_-VdvgND_/view) so that it could be integrated into the bigger system. After that was out of the way, I sought to create my clicking minigame. The first step was to combine a button with a shape, which was quite simple to do at first.
+Having honed in on the interactive aspect of Swift, I sought to combine a button with a shape that would disappear as the user clicked on it, as a game. To achieve this, I began watching various videos on different topics to understand how I could achieve my goal. With my direction set, I first wanted to put that aside and follow step by step a video on how to create a [card matching minigame](https://drive.google.com/file/d/1lEL9fTAbKJznsanTHrcyeM5_-VdvgND_/view) so that it could be integrated into the bigger system. After that was out of the way, I sought to create my clicking minigame. The first step was to combine a button with a shape, which was quite simple to do at first.
 
 ```Swift
 Button(action: { print("Tapped!") }) {
