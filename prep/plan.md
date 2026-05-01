@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Swift
+## Product: Brain Stimulating IOS App
 
 ---
 
@@ -9,13 +9,18 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
-
+We are going to make a concept of a guessing game that can keep the user active to think about their inputs while minimizing distracting and unnecessary additions.
+- Build a bare-bone menu main page that includes game displays, navigation tools, and setting options using NavigationStack (deadline: 3/10) (Joe)
+  - Add logos and start buttons for each game (it will be a card carousel with arrow navigation on the side) (deadline: 3/15) (Kyle)
+  - Add background music in the main page (deadline: 3/15) (Kyle)
+- Create card memory test game (objective being to have the longest memorized streak of cards) (deadline: 3/15) (Joe)
+- Create reaction time test game (deadline: 3/20) (Joe)
+  
 #### Beyond MVP
+(To be started late March, early April)
+- Add additional games (word scrambler, snake) (Both)
+- Refine the menu page by adding animation to enhance user experience and overall looks (Both)
 
-- [ ] Task
-  - [ ] Subtask
 
 
 <!-- EXAMPLE
@@ -60,3 +65,5 @@
 |  |  |  |
 
 -->
+
+
