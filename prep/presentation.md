@@ -16,7 +16,7 @@ Process → I will be using snippets of my code alongside gifs to explain how I 
 
 
 ## Conclusion
-Conclusion → This combination of games showcases the possibility of how we can utilize a coding language to efficiently and effectively complete a mindful goal. We will then wrap it up by explaining our emotions during the entire process and our final thoughts as we finished and navigated through everything. (Takeaway of to keep on researching a question or ask for help until you understand your problem fully. On top of that, “simple is sometimes better”, rather than trying to build something extravagant from the start, its better to start with a core feature and build around it so that you don’t get roadblocked easily and can work on your issue better.
+Conclusion → This combination of games showcases the possibility of how we can utilize a coding language to efficiently and effectively complete a mindful goal. We will then wrap it up by explaining our emotions during the entire process and our final thoughts as we finished and navigated through everything. Takeaway of to keep on researching a question or ask for help until you understand your problem fully. On top of that, “simple is sometimes better”, rather than trying to build something extravagant from the start, its better to start with a core feature and build around it so that you don’t get roadblocked easily and can work on your issue better.
 
 <!-- EXAMPLE
 
