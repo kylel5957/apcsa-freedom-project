@@ -7,6 +7,11 @@ After presenting in class and in the expo, I realized the necessity of presentin
 ### Final UI Stitch
 Through utilizing [documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/) and various [videos](https://www.youtube.com/watch?v=EEcmRaeZ7ik), Joe and I were able to make a functional UI that has sliders as well as a dark mode which users can interact with as they play our game. Additionally, we added buttons throughout our product to make it more accessible when playing or navigating through our platform.
 
+<img width="367" height="413" alt="image" src="https://github.com/user-attachments/assets/1ac68ef9-99b5-4f1f-9e92-cf876275d903" />
+
+<img width="412" height="399" alt="image" src="https://github.com/user-attachments/assets/f444add0-81a5-4244-af36-1bb27e830d74" />
+
+
 ### Engineer Design Process (EDP)
 Having completed our product, that marks the 7th step in the EDP process as well as the 8th as we reflect on our finished product. With the presentation of our game completed, it is now time to communicate the results on how we could have improved our creation as well as what we could have included for the future.
 
